@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="primer_numero">Primer Número</string>
+    <string name="segundo_numero">Segundo Número</string>
+    <string name="btn_restar" />
+    <string name="btn_dividir">/</string>
+    <string name="btn_por">X</string>
+    <string name="btn_resto">%</string>
+    <string name="btn_menos">-</string>
+    <string name="txt_resultado">0</string>
+</resources>
